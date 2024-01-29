@@ -7,3 +7,35 @@ The course has been meticulously developed from the ground up, ensuring that all
 Reference:
 Kohavi, Ron, Diane Tang, and Ya Xu. Trustworthy online controlled experiments: A practical guide to a/b testing. Cambridge University Press, 2020.
 
+Course Roadmap:
+
+1. A comprehensive overview of AB testing
+
+2. Statistics behind A/B testing 
+* Statistical tests (t, z, chi-square)
+* Confidence intervals
+* Type I error & Multiple Testing
+* Type II Error & Power Analysis
+* Regression 
+
+3. Internal & External Validity
+* SUTVA (network interferences)
+* Survivorship bias
+* Sanity Checks (SRM, Randomisation checks, A/A tests)
+* Heterogeneous Treatment Effects (HTE)
+
+4. Improve Sensitivity 
+* Ratio metrics (e.g., lift etc.)
+* Increase N (pooled control group, split sample)
+* Increase effect size (Triggering Experiments)
+* Reduce variance (transform metrics and interleaving design)
+* Stratification (post and at assignment)
+* Regression with controls, CUPED
+* Paired Design, Block Design
+
+5. Observational Causal Studies
+* Interrupted time series (ITS)
+* Regression discontinuity design (RDD)
+* Difference-in-Difference (DID)
+* Propensity score matching (PSM)
+
