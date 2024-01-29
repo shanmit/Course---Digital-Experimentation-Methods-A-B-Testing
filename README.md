@@ -1,4 +1,4 @@
-# Course---Digital-Experimentation-Methods-A-B-Testing
+# Course-Digital-Experimentation-Methods-A/B-Testing
 
 These course materials are specifically designed for teaching Master's students at HKU Business School, centering on the principles and practices of A/B testing. I aim to extend their usefulness to a wider audience, encompassing both learners and educators in the field of A/B testing.
 
