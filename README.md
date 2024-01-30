@@ -7,6 +7,10 @@ The course has been meticulously developed from the ground up, ensuring that all
 Reference:
 Kohavi, Ron, Diane Tang, and Ya Xu. Trustworthy online controlled experiments: A practical guide to a/b testing. Cambridge University Press, 2020.
 
+Course Instructor: [Shan Huang](https://www.shanhhuang.com/), an assistant professor in Marketing at HKU Business School. [Email:](shanhh@hku.hk)
+
+Course TA： Chen Wang,[Email:](annacwang@connect.hku.hk), who is a PhD student at HKU Business School. 
+
 Course Description:
 
 The newly emerging capability to rapidly deploy and iterate online controlled experiments to assist decision makings in organizations is one of the most significant innovations in today’s technology industry. As more and more social interactions, decisions, opinions, and transactions are mediated by online platforms, digital experiments are becoming increasingly crucial for firms to understand their user behaviors and make product decisions. This course will cover the most cutting-edge digital experimentation methods used in the daily operations at large technology firms. We will also share the key lessons and pitfalls encountered in practice. Topics include the statistics behind experiments, experimental design, methods of analyzing experiments, A/B testing platform and culture in organizations, recent development in digital experimentation and observational causal studies. Students will also learn how to conduct and analyze online experiments using programming languages, such as python, assignments, and a course project.
