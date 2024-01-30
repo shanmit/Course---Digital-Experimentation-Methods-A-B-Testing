@@ -7,9 +7,9 @@ The course has been meticulously developed from the ground up, ensuring that all
 Reference:
 Kohavi, Ron, Diane Tang, and Ya Xu. Trustworthy online controlled experiments: A practical guide to a/b testing. Cambridge University Press, 2020.
 
-Course Instructor: [Shan Huang](https://www.shanhhuang.com/), an assistant professor in Marketing at HKU Business School. [Email:](shanhh@hku.hk)
+Course Instructor: [Shan Huang](https://www.shanhhuang.com/), an assistant professor in Marketing at HKU Business School. Email: shanhh@hku.hk
 
-Course TA： Chen Wang,[Email:](annacwang@connect.hku.hk), who is a PhD student at HKU Business School. 
+Course TA： Chen Wang, who is a PhD student at HKU Business School. Email: annacwang@connect.hku.hk,
 
 Course Description:
 
