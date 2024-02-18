@@ -1,4 +1,4 @@
-# Teaching & Learning: Digital-Experimentation-Methods-A/B Testing
+# Teaching & Learning: Digital Experimentation & A/B Testing
 
 These are course materials are initially designed for teaching MSBA (Masters of Science in Business Analytics) program at HKU Business School, centering on the principles and practices of A/B testing. I aim to extend their usefulness to a wider audience, encompassing both learners and educators in the field of A/B testing. The materials include both lecture notes and class exercises in Python. You could easily develop assignments based on the class exercises. The course has been meticulously developed from the ground up, ensuring that all content is original. Notably, these materials incorporate insights from 'Kohavi et al. (2020)', blended with my personal experiences and professional collaborations, particularly with the WeChat A/B testing team at Tencent, China. In addition, I welcome any input related to teaching and learning A/B tests. Understanding this knowledge will benefit practitioners by enabling them to use data for making decisions more scientifically
 
