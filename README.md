@@ -34,10 +34,10 @@ The newly emerging capability to rapidly deploy and iterate online controlled ex
 * Ratio metrics (e.g., lift etc.)
 * Increase N (pooled control group, split sample)
 * Increase effect size (Triggering Experiments)
-* Reduce variance (transform metrics and interleaving design)
-* Stratification (post and at assignment)
+* Reduce variance (transform metrics and interleaving design, paried design)
+* Stratification (post and at assignment, block design)
 * Regression with controls, CUPED
-* Paired Design, Block Design
+
 
 5. Observational Causal Studies
 * Interrupted time series (ITS)
